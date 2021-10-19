@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+    "title": "Batman: The Complete Animated Series (Repackage/BIL/BD) [Blu-ray] ",
+    "desc": "Now in High Definition, all 109 action-packed episodes, 35 hours of crime fighting! The critically acclaimed, Emmy-winning series, that redefined the complex super hero to the Dark Knight that fans love today is now available in a Blu-ray set! Also includes 2 Bonus Discs of Animated Films Batman: Mask of the Phantasm and Batman & Mr. Freeze: SubZero!",
+    "price": 45.00,
+     "image": "https://m.media-amazon.com/images/I/8197+p-CjoL._AC_SL1500_.jpg",
+     "ratings": 4},
+     {   
+        "id": 2,
+        "title": "PlayStation 4 Slim 1TB",
+         "desc": "PlayStation 4 Slim 1TB Console - Only On PlayStation Bundle",
+         "price": 588.00,
+         "image": "https://images-na.ssl-images-amazon.com/images/I/814Cwlg1JaL._SL1500_.jpg",
+         "ratings": 5
+     },
+     {
+        "id": 3,
+        "title": "Samsonite Unisex-Adult Samsonite Omni 2 Hardside Dual-Spinner 3pc Set (CO/MD/LG) Luggage- Luggage Set ", 
+        "desc": "Samsonite Unisex-Adult Samsonite Omni 2 Hardside Dual-Spinner 3pc Set (CO/MD/LG) Luggage- Luggage Set ",
+         "price": 224.99,
+         "image": "https://m.media-amazon.com/images/I/91YHM8h2GDL._AC_SX425_.jpg",
+         "ratings": 5
+     },
+     {   
+        "id": 4, 
+         "title": "PRISP 3-Piece Kettlebell Weight Set - 5lb 10lb 15lb Free Weights with Rack ", 
+         "desc": "Set of 3 kettlebells: 5, 10 and 15 pounds; an excellent addition to your home gym equipment",
+         "price": 53.00,
+         "image": "https://m.media-amazon.com/images/I/91W-m4wTydL._AC_SL1500_.jpg",
+         "ratings": 5
+     }
+]
